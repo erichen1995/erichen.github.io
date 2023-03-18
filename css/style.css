@@ -1626,7 +1626,7 @@ code {
   color: #a6a4a4;
 }
 .highlight figcaption:before,
-.highlight figcaption content {
+.highlight figcaption content: "" {
   display: table;
 }
 .highlight figcaption:after {
